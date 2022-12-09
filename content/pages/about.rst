@@ -7,8 +7,7 @@ About
     <div class="pure-u-2-3">
 
 Welcome, I am an applied geophysicist with a strong interest in deriving process-based information from geophysical observations.
-I am currently substitute professor of Applied Geophysics at `RWTH Aachen University`_
-and have previously worked at the `University of Bonn`_, `Berkeley Lab`_, `GFZ German Research Centre
+I have previously worked at `RWTH Aachen University`_, `University of Bonn`_, `Berkeley Lab`_, `GFZ German Research Centre
 for Geosciences`_ and obtained a PhD from `ETH Zurich`_.
 
 My research interests include:
